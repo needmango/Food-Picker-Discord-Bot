@@ -1,0 +1,12 @@
+{"intents":[
+    {"tag": "fast-food",
+    "patterns": ["dinner", "right", "tonight", "starving", "lunch", "food", "hungry", "eat"],
+    "responses": ["Dude, you cannot tell me that McDonald nuggies doesn't sound heat right now", "We might have to get McDonalds tonight tbh... Don't you think?", "Honestly, Arby's (cap)", "My mouth is just watering rn thinkin about PF Chang's", "Ngl, Wendy's nuggies hit so goddamn hard", "I think its about time you get some wendy's", "Idk if its Sunday, BUT TELL ME A LEMON FROSTY WITH A SPICY CHICKY SAMMY DOESNT SOUND GAS rn", "Your stomach honestly needs five men inside of it. I mean five guys.", "Maybe get some MOD pizza my guy", "waitttttt... wings sound so fire rn", "get spicy chicky wings omggg", "Any illestthai places near u? Some real nice spicy shit you feel me? Then you can wash it down with thai tea... oh my gah", "Might be a frozen pizza kinda night. My fav is Red Baron", "It's been forever since we had grilled cheese tbh... I think you need it in ur mouf", "GYROS OH MY pls... pls just get one", "It's a rib kinda night", "Minion meal anyone???", "Tacos. oh my lord pls get tacos", "It's and enchillada kinda night", "Chicken alfredo?", "Orange CHICKY OMG"]},
+    {"tag": "dessert",
+    "patterns": ["sweet", "dessert", "yummy"],
+    "responses": ["You honestly need a milkshake", "Whens the last time you got a milshake huh?", "Ughhh can we pls get a milkshakeeee", "Just get a yummy milkshakee", "Ummm get some cheesecake!", "Get some cheesecake hun", "Ya honestly, you deserve some cheesecake", "Donuts dude...", "Might have to hit up the krisy kreme", "Krispy Kreme is calling ur name", "bubble tea pls", "Oh my... warm apple pie with a lil whip cream and a kiss", "root beer float my guy?", "What are you gonna do for this Klondike bar ;)", "Do you have any waffles?", "Pls tell me u have stuff to make frenchy toasty", "You could get a PopTart?? but ehhh"]},
+    {"tag": "diet",
+    "patterns": ["healthy"],
+    "responses": ["Cashews?", "Fruit salad? yummy yummy", "cheese and crackers dude", "apple and peanut butter!", "idk man do you have any fruits? make a smoothie or sum", "drink water fatty", "idek im not much of a healthy bot tbh"]}
+]
+}
